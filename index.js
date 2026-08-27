@@ -40,4 +40,4 @@ const makeCommits = async (n) => {
     console.log(`Finished ${n} commits!`);
 };
 
-makeCommits(1000);
+makeCommits(600);
